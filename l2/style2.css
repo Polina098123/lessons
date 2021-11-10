@@ -1,0 +1,18 @@
+body {
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(240,164,218,1) 4%, rgba(220,172,231,1) 10%, rgba(156,89,238,1) 20%, rgba(122,69,233,1) 30%, rgba(76,27,245,1) 42%, rgba(26,3,147,1) 49%, rgba(25,6,145,1) 52%, rgba(22,7,241,1) 60%, rgba(92,102,203,1) 72%, rgba(21,63,193,1) 82%, rgba(23,86,249,1) 86%, rgba(8,59,119,1) 100%);
+}
+td{
+    height: 100px;
+    width: 500px;
+    border: cadetblue;
+}
+td{
+    border: 2px solid rgb(122,69,233,1);
+}
+td:hover{
+    color:rgba(220,172,231,1);
+    border: 5px solid rgb(21,63,193,1);
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(240,164,218,1) 4%, rgba(220,172,231,1) 10%, rgba(156,89,238,1) 20%, rgba(122,69,233,1) 30%, rgba(76,27,245,1) 42%, rgba(26,3,147,1) 49%, rgba(25,6,145,1) 52%, rgba(22,7,241,1) 60%, rgba(92,102,203,1) 72%, rgba(21,63,193,1) 82%, rgba(23,86,249,1) 86%, rgba(8,59,119,1) 100%);
+}

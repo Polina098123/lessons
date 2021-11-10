@@ -1,0 +1,28 @@
+.main-inner{
+    display: flex;
+    background:200px burlywood;
+    height: 800px;
+    width: 800px;
+    flex-direction: row;
+}
+.main{
+    display: flex;
+    background:800px rgb(233, 157, 59);
+    height: 700px;
+    width: 500px;
+    flex-direction: row;
+}
+.aside-left{
+    display: flex;
+    background:800px rgb(156, 98, 21);
+    height: 500px;
+    width: 500px;
+    flex-direction: row-reverse;
+}
+.aside-right{
+    display: flex;
+    background:800px rgb(41, 113, 155);
+    height: 500px;
+    width: 500px;
+    flex-direction: row-reverse;
+}
